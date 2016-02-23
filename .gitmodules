@@ -1,3 +1,6 @@
+[submodule "bundle/puppet-syntax-vim"]
+	path = bundle/puppet-syntax-vim
+    url = https://github.com/puppetlabs/puppet-syntax-vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
     url = https://github.com/scrooloose/nerdtree.git
@@ -53,3 +56,9 @@
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
 	url = https://github.com/elzr/vim-json.git
+[submodule "puppet-syntax-vim"]
+	path = puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim
+[submodule "bundle/puppet"]
+	path = bundle/puppet
+	url = git://github.com/rodjek/vim-puppet.git
